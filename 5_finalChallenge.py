@@ -17,3 +17,7 @@
 # Well, try to do it on your own, and if it gets complicated, don’t worry, we will solve it together in the next lecture.
 
 # Cheers and good luck.
+Superhero = input("Who is your favorite superhero and why? ")
+Powers = input("What type of Powers do they have?")
+
+print("My favorite superhero is", (superhero), (Powers))
